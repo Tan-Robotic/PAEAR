@@ -7,17 +7,17 @@ In this repository, the`aubo_robot`folder contains the ROS package used for simu
 ## Aubo Robot Arm ROS Package:
 
 Launch the simulation environment:
-``
+```
 roslaunch aubo_i10_moveit_config moveit_planning_execution.launch robot_ip:=127.0.0.1
-``
+```
 Launch the physical environment:
-``
+```
 roslaunch aubo_i10_moveit_config moveit_planning_execution.launch robot_ip:=192.168.192.5
-``
+```
 Launch the Gazebo simulation:
-``
+```
 roslaunch aubo_gazebo aubo_i10_gazebo_control.launch
-
+```
 
 
 ## Mech 3D Camera ROS Package
