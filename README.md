@@ -34,3 +34,6 @@ Capture a colored point cloud：
 rosservice call /capture_textured_point_cloud
 ```
 
+## Algorithm Code and Dataset:
+The dataset is not yet publicly available, but we can provide it upon request after the paper is published.
+The complete source code for the algorithm and the experimental code will be made fully available after the paper is published.
