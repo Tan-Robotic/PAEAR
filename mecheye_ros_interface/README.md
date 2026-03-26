@@ -2,22 +2,6 @@
 
 This documentation provides instructions on using the ROS 1 interface for Mech-Eye Industrial 3D Camera.
 
-If you have any questions or have anything to share, feel free to post on the [Mech-Mind Online Community](https://community.mech-mind.com/). The community also contains a [specific category for development with Mech-Eye SDK](https://community.mech-mind.com/c/mech-eye-sdk-development/19).
-
-## Prerequisites
-
-In order to use the ROS 1 interface, the following prerequisites must be satisfied:
-
-* Ubuntu version: 20.04 is recommended, which is the main target platform of ROS Noetic Ninjemys.
-* ROS 1 version: The stable version [Noetic Ninjemys](http://roswiki.autolabor.com.cn/noetic%282f%29Installation%282f%29Ubuntu.html) is recommended.
-
-  >Note: The ROS 1 interface of Mech-Eye SDK has been tested with the above versions of ROS and Ubuntu. The command examples in this document are based on the above versions.
-
-* [Download the latest version of Mech-Eye SDK](https://downloads.mech-mind.com/?tab=tab-sdk).
-* Dependencies:
-
-  * OpenCV: 3.0 or above
-  * PCL: 1.8 or above
 
 ### Install Mech-Eye SDK
 
