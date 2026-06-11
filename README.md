@@ -1,4 +1,4 @@
-# PAEAR: A Method for Active Weld Seam Recognition
+# A Method for Active Weld Seam Recognition
 
 [![R](https://img.shields.io/badge/Robot-AUBO_Ros-brightgreen)](#)
 [![C](https://img.shields.io/badge/Camera-Mecheye_Ros-brightgreen)](#)
